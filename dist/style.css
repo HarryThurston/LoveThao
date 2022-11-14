@@ -10,6 +10,7 @@ html, body {
   justify-content: center;
   align-items: center;
   background-color: #FFC568;
+  /* background-image:url('../img/Background.jpg'); */
   font-size: 62.5%;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
